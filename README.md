@@ -11,3 +11,8 @@ If this is useful to you, let me know!
 Suggestions from others are welcome via pull requests.
 However, please keep in mind that I will balance completeness (a large collection of links) with useful terseness (the smallest set of links that is useful) to prevent eyes-glazed-over syndrome.
 
+Resources
+  - [Linux](linux.md)
+  - [Programming](programming.md)
+  - [Version Control](version_control.md)
+  - [ROS](ros.md)
