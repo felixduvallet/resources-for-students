@@ -1,7 +1,7 @@
 Resources for students
 ===================
 
-This collection is primarily intended to serve as a resource for students working with [me](https://github.com/felixduvallet/)
+This collection is primarily intended to serve as a resource for students working with [me](https://github.com/felixduvallet/).
 
 These are resources and recommendations of tutorials, handy references, and other useful links.
 I have sorted them into categories, and ordered them as essential, advanced, or master level.
