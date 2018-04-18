@@ -23,5 +23,5 @@ Master
 ----------
 
   - pypi is a good way to install python modules. 
-  - For prettier python plots (and lots of statistical analysis tools), check out the seaboard library. http://stanford.edu/~mwaskom/software/seaborn/
+  - For prettier python plots (and lots of statistical analysis tools), check out the seaborn library. http://stanford.edu/~mwaskom/software/seaborn/
   - The [multiprocessing](https://docs.python.org/2/library/multiprocessing.html) python module is a nice way to parallelise your computation. You will need to understand the GIL (global interpreter lock) and why it's important. zoom zoom!
